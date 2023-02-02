@@ -9,7 +9,6 @@ Python
 
 ## General Information
 - This project based on the example of Linear Regression.
-- The background of the project is to test, train and evaluate the particular dataset
 - Demand of Sharing Bikes
 - The dataset is used that given by upgrad.
 
